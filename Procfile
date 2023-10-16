@@ -1,0 +1,1 @@
+worker: python Breaking_News_Bot_v3.py

@@ -1,0 +1,17 @@
+time
+datetime
+timedelta
+requests
+pyowm
+OWM
+pyowm.utils.config
+get_default_config
+newsapi
+NewsApiClient
+operator
+itemgetter
+telebot
+types
+geopy
+geopy.geocoders
+Nominatim

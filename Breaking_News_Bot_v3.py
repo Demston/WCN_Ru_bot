@@ -160,7 +160,7 @@ def funny_news():
         pass
 
 
-TOKEN = '6097100208:AAHrf8PE1K0vNpWrCC3SnAb1L_dgYsQBLak'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 
